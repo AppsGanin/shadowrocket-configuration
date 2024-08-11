@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,www.quora.com
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,openai.com
 
 # DNS Leak
 DOMAIN-SUFFIX,dnsleaktest.com
@@ -29,6 +31,8 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
 
 # YOUTUBE
 DOMAIN-SUFFIX,googlevideo.com
