@@ -29,3 +29,9 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
+
+# YOUTUBE
+DOMAIN-SUFFIX,googlevideo.com
+DDOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ytimg
+DOMAIN-KEYWORD,youtube
